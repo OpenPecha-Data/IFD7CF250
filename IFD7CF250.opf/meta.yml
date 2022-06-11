@@ -1,0 +1,61 @@
+id: IFD7CF250
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:11:23.121495'
+last_modified: '2022-06-11T13:11:23.121500'
+parser: null
+source_metadata:
+  title: Tsongkhapa Lobzang Drakpa Series
+  language: it
+  description: 'Texts by and about the great master Tsongkhapa Lobzang Drakpa (tsong
+    kha pa blo bzang grags pa) (1357–1419), founder of the Gelug school:'
+  volume:
+    f9EC0:
+      title: 'Rain of Wisdom, Love and Spiritual Power: A Guru Yoga of the Three Mañjughoṣas
+        of the Land of Snow'
+      base_file: f9EC0.txt
+      order: 1
+      parent: Guru Yoga
+    f6A10:
+      title: Short Guru Yoga of the Noble Lord, All-Knowing Tsongkhapa
+      base_file: f6A10.txt
+      order: 2
+      parent: Guru Yoga
+    f0B49:
+      title: Three Principal Aspects of the Path
+      base_file: f0B49.txt
+      order: 3
+      parent: Mind Training
+    fD9D7:
+      title: Praise to Mañjughoṣa
+      base_file: fD9D7.txt
+      order: 4
+      parent: Praise
+    f44B0:
+      title: 'The Flower of Faith: Praise to the Great Lord Guru Tsongkhapa'
+      base_file: f44B0.txt
+      order: 5
+      parent: Praise
+    f4F70:
+      title: Aspiration for the Stages of the Path
+      base_file: f4F70.txt
+      order: 6
+      parent: Prayers
+    f0297:
+      title: Prayer to Rendawa Shönnu Lodrö
+      base_file: f0297.txt
+      order: 7
+      parent: Prayers
+    fD86A:
+      title: The Foundation of All Qualities
+      base_file: fD86A.txt
+      order: 8
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
